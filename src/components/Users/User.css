@@ -1,0 +1,19 @@
+.user-img img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.user-card {
+  background-color: floralwhite;
+  margin: 15px;
+  text-align: center;
+  padding: 10px;
+  height: 350px;
+  width: 280px;
+}
+.user-card button {
+  border: 0;
+  padding: 8px;
+  width: 200px;
+  border-radius: 5px;
+}

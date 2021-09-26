@@ -1,0 +1,9 @@
+.img {
+  height: 70px;
+  width: 80px;
+  margin: 10px;
+}
+.user-added {
+  display: flex;
+  align-items: center;
+}
