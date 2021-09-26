@@ -1,6 +1,6 @@
 # Dhaka Metro Rail Project
 
-The project live cite: [Dhaka Metro Rail Project] (https://awesome-darwin-9027a4.netlify.app).
+The project live cite: https://awesome-darwin-9027a4.netlify.app.
 
 ## The project is made by React
 
