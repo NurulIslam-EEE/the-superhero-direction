@@ -9,24 +9,24 @@
   margin: 15px;
   text-align: center;
   padding: 25px 10px;
-  height: 410px;
+  height: 420px;
   width: 300px;
   transition: 0.8s;
 }
 .user-card:hover {
   transform: translateY(-20px);
-  border-left: 4px solid #7aa93c;
+  border-left: 4px solid #009688;
 }
 .user-card button {
   border: 0;
   padding: 8px;
   width: 150px;
   border-radius: 5px;
-  background-color: #7aa93c;
+  background-color: #009688;
   color: #ffffff;
 }
 .user-card button:hover {
-  border: 2px solid #7aa93c;
+  border: 2px solid #009688;
   background-color: transparent;
   color: black;
 }

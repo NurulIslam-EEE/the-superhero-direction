@@ -95,7 +95,7 @@
     "lastName": "Arafat",
     "firstName": "Yasser",
     "designation": "Civil Engineer",
-    "experience":"17 years",
+    "experience":"19 years",
     "salaryRange": "1712.36"
     },
     {
@@ -106,7 +106,7 @@
     "lastName": "Ayyub",
     "firstName": "Bilal M.",
     "designation": "Electrician",
-    "experience":"17 years",
+    "experience":"14 years",
     "salaryRange": "938.19"
     },
     {
@@ -128,7 +128,7 @@
     "lastName": "Barlow",
     "firstName": "William Henry",
     "designation": "Surveyor",
-    "experience":"17 years",
+    "experience":"28 years",
     "salaryRange": "5767.81"
     },
     {
@@ -150,7 +150,7 @@
     "lastName": "Calatrava",
     "firstName": "Santiago",
     "designation": "Electrician",
-    "experience":"17 years",
+    "experience":"25 years",
     "salaryRange": "2206.46"
     },
     {
@@ -161,7 +161,7 @@
     "lastName": "Calvo-Sotelo",
     "firstName": "Leopoldo",
     "designation": "Construction Worker",
-    "experience":"17 years",
+    "experience":"13 years",
     "salaryRange": "896.07"
     },
     {
@@ -172,7 +172,7 @@
     "lastName": "Clough",
     "firstName": "G. Wayne",
     "designation": "Supervisor",
-    "experience":"17 years",
+    "experience":"9 years",
     "salaryRange": "7444.66"
     },
     {
@@ -194,7 +194,7 @@
     "lastName": "Holford",
     "firstName": "Karen",
     "designation": "Mechanical Engineer",
-    "experience":"17 years",
+    "experience":"22 years",
     "salaryRange": "6793.31"
     },
     {
@@ -205,7 +205,7 @@
     "lastName": "Jintao",
     "firstName": "Hu ",
     "designation": "Engineer",
-    "experience":"17 years",
+    "experience":"26 years",
     "salaryRange": "9882.21"
     },
     {
@@ -216,7 +216,7 @@
     "lastName": "Kerner",
     "firstName": "Boris",
     "designation": "Engineer",
-    "experience":"17 years",
+    "experience":"15 years",
     "salaryRange": "6882.35"
     },
     {
@@ -227,7 +227,7 @@
     "lastName": "Fosbury",
     "firstName": "Dick",
     "designation": "Construction Worker",
-    "experience":"17 years",
+    "experience":"12 years",
     "salaryRange": "2301.24"
     },
     {
@@ -266,7 +266,7 @@
     {
     "id": 25,
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JosephBazalgettePortrait.jpg/220px-JosephBazalgettePortrait.jpg",
-    "email": "mfeedhamo@chronoengine.com",
+    "email": "JosephB@gmail.com",
     "gender": "Female",
     "lastName": "Bazalgette",
     "firstName": "Joseph",
