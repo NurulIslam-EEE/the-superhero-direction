@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <h1 className="title-text">Dhaka Metro Project</h1>
+            <h1 className="title-text">Dhaka Metro <span>Rail Project</span> </h1>
             <h2 className='title-text'>Total Budget: 40 Billion</h2>
         </div>
     );

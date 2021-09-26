@@ -2,7 +2,7 @@ import React from 'react';
 import './User.css'
 const Users = (props) => {
     console.log(props);
-    const { img, firstName, lastName, gender, salaryRange, designation, email, clicked } = props.user;
+    const { img, firstName, lastName, gender, salaryRange, designation, email, clicked, experience } = props.user;
     return (
         <div>
 
@@ -10,12 +10,12 @@ const Users = (props) => {
                 <div className="user-img">
                     <img src={img} alt="" />
                 </div>
-                <h6>Name : {firstName} {lastName}</h6>
-                <h6>Gender: {gender}</h6>
-                <h6>{designation}</h6>
-                <h6>{email}</h6>
-                <h6></h6>
-                <h6>$ {salaryRange}</h6>
+                <p>Name : {firstName} {lastName}</p>
+                <p>Gender: {gender}</p>
+                <p>Designation: {designation}</p>
+                <p>E-mail: {email}</p>
+                <p>Experience: {experience}</p>
+                <p>Expected Salary: $ {salaryRange}</p>
                 {
                     !clicked ? <button onClick={() => props.addToCartHandler(props.user)}> <i class="fas fa-shopping-cart"></i> add to cart</button> : <button > <i class="fas fa-shopping-cart"></i> added</button>
                 }
