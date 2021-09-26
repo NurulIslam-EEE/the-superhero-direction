@@ -1,12 +1,14 @@
 import React from 'react';
 import './Added.css'
+
 const Added = (props) => {
-    const { img, name } = props;
+    const { img, firstName, lastName } = props;
     return (
         <div>
             <div className="user-added">
                 <img className="img" src={img} alt="" />
-                <h3>{name}</h3>
+                <h5>{firstName} {lastName}</h5>
+                <button>X</button>
             </div>
 
         </div>

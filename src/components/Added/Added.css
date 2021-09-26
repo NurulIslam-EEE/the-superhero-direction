@@ -6,4 +6,12 @@
 .user-added {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  margin: 15px 15px 15px 0;
+}
+.user-added button {
+  margin-right: 15px;
+
+  background-color: rgb(248, 87, 87);
 }

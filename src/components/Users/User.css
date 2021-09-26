@@ -2,18 +2,31 @@
   width: 80px;
   height: 80px;
   border-radius: 50%;
+  margin-bottom: 8px;
 }
 .user-card {
-  background-color: floralwhite;
+  background-color: #ffffff;
   margin: 15px;
   text-align: center;
-  padding: 10px;
+  padding: 25px 10px;
   height: 350px;
   width: 280px;
+  transition: 0.8s;
+}
+.user-card:hover {
+  transform: translateY(-20px);
+  border-left: 4px solid #7aa93c;
 }
 .user-card button {
   border: 0;
   padding: 8px;
-  width: 200px;
+  width: 150px;
   border-radius: 5px;
+  background-color: #7aa93c;
+  color: #ffffff;
+}
+.user-card button:hover {
+  border: 2px solid #7aa93c;
+  background-color: transparent;
+  color: black;
 }
