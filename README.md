@@ -6,4 +6,4 @@ The project live cite: https://awesome-darwin-9027a4.netlify.app.
 
 ## Total engineers hiring cost and total hired engineers number calculation are added
 
-## Selected engineers list are added.
+## Selected engineers list shown.
